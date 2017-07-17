@@ -6,7 +6,7 @@ _A Summer Project for CP2106: Independent Software Development Project (Orbital)
 * __Project Title__: NUS Maths PYP Solutions
 * __Project Team Members:__ __Lu Lechuan__ (NUS Comp Sci), __Xu Weichen__ (NUS Applied Maths)
 * __Member Contribution__
-  * __Lu Lechuan__ (Front-End Development with JQuery, Mathjax, Bootstrap)
+  * __Lu Lechuan__ (Front-End Development with JQuery, Mathjax, Bootstrap, Vue.js)
   * __Xu Weichen__ (Back-End Development with Express, MongoDB, Mongoose, Passportjs)
 * __Project Duration & Breakdown:__
   * __May 2017__: Learning HTML5, CSS, Javascript, Introduction to Expressjs, MongoDB, JQuery, Ajax
